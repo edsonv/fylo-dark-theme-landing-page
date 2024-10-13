@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway:wght@400;700&display=swap');
+
+@font-face {
+  font-family: 'icomoon';
+  src: url('../../fonts/icomoon.eot?wba0q0');
+  src: url('../../fonts/icomoon.eot?wba0q0#iefix') format('embedded-opentype'),
+    url('../../fonts/icomoon.ttf?wba0q0') format('truetype'),
+    url('../../fonts/icomoon.woff?wba0q0') format('woff'),
+    url('../../fonts/icomoon.svg?wba0q0#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+$ff-body: 'Open Sans', sans-serif;
+$ff-accent: 'Raleway', sans-serif;
+
+$fs-base: 14px;

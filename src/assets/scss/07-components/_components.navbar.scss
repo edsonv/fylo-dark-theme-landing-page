@@ -1,0 +1,19 @@
+.c-menu-navbar {
+  align-items: center;
+  justify-content: space-between;
+  // padding-inline: 40px;
+  margin: 48px 0;
+}
+
+.c-navbar-list {
+  list-style: none;
+  gap: var(--gap, 1rem);
+  padding: 0;
+  margin: 0;
+
+  & > .listItem > .itemLink {
+    text-decoration: none;
+    padding: 15px 12px;
+    font-size: 1.285rem;
+  }
+}

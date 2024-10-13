@@ -1,0 +1,19 @@
+.c-header-section {
+  flex-direction: column;
+  align-items: center;
+
+  & > .imageContainer {
+    width: 95%;
+  }
+
+  & > .title {
+    width: 23ch;
+  }
+
+  & > .content {
+    width: 36ch;
+  }
+
+  & > .link {
+  }
+}
